@@ -1,2 +1,2 @@
-# NBA_Salary_Preditor
+# NBASalaryPreditor
 Predicting NBA salaries using machine learning through R
